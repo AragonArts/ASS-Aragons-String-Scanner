@@ -63,49 +63,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property anchor() As System.Drawing.Bitmap
+        Friend ReadOnly Property splash() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("anchor", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property arrow_down() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("arrow_down", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property clock_play() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("clock_play", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property page_white_magnify() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("page_white_magnify", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
-        Friend ReadOnly Property world() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("world", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("splash", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

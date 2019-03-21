@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.vbprojAssemblyReference.cache
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon_s_String_Scanner.Main.resources
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon_s_String_Scanner.Resources.resources
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.vbproj.GenerateResource.cache
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.vbproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.exe.manifest
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.exe
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.xml
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.pdb
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\bin\Debug\Aragon's String Scanner.exe.config
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\bin\Debug\Aragon's String Scanner.exe.manifest
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\bin\Debug\Aragon's String Scanner.application
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\bin\Debug\Aragon's String Scanner.exe
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\bin\Debug\Aragon's String Scanner.pdb
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\bin\Debug\Aragon's String Scanner.xml
+C:\Users\Home\source\repos\Aragon's String Scanner\Aragon's String Scanner\obj\Debug\Aragon's String Scanner.application
